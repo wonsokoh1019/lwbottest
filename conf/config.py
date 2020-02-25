@@ -25,22 +25,22 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+ADMIN_ACCOUNT = "admin@lwbottest"
+DOMAIN_ID = 156307
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1HOTNAKgnvZ"
+SERVER_CONSUMER_KEY = "u2FxcdHbKaRI3xgvs_QX"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
-SECRET_KEY_NAME = "private_201xxxxx164308.key"
+SERVER_ID = "948d6ccc1bdb46fdabe5ae9dc4214dbc"
+SECRET_KEY_NAME = "private_20200225195851.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://lwbottest.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-184-72-235-80.compute-1.amazonaws.com"
+DB_NAME = "dcdpn1hukld1nv"
+DB_USER = "ntoxxszobxbqaj"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "80f94a569937ba22c17abc0a4268163b5f49305bb65acd12c8bc13bea9995013"
